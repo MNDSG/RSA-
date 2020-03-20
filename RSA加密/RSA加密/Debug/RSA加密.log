@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\vs2019项目\RSA加密\RSA加密\main.cpp(53): warning C4715:  “get_pub_key”: 不是所有的控件路径都返回值
+D:\vs2019项目\RSA加密\RSA加密\main.cpp(67): warning C4715:  “get_pri_key”: 不是所有的控件路径都返回值
+D:\vs2019项目\RSA加密\RSA加密\main.cpp(34): warning C4715:  “is_prime_num”: 不是所有的控件路径都返回值
+  RSA加密.vcxproj -> D:\vs2019项目\RSA加密\Debug\RSA加密.exe
